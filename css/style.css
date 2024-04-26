@@ -178,6 +178,7 @@ body {
   header .header-logo img {
     display: block;
     max-height: 50px;
+    border-radius: 50px;
     /*vertical-align: middle;*/
   }
   header .header-categories {

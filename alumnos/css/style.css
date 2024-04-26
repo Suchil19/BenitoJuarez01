@@ -457,6 +457,7 @@ position: relative;
     display: block;
     max-height: 50px;
     /*vertical-align: middle;*/
+    border-radius: 50Px;
   }
   header .header-categories {
     display: block;
@@ -971,7 +972,7 @@ animation: AnimationName 10s ease infinite;
    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1hgF8o_p837lJCT72u2MsemJuavOJQWsXGw&usqp=CAU);
 }
 .card2{
-   background-image: url(https://www.comparasoftware.com/wp-content/uploads/2018/07/logobrightspace.png);
+   background-image: url(https://cdns-images.dzcdn.net/images/talk/80228fc3503308fa0597c2954849ef98/1000x1000.jpg);
 }
 .card3{
    background-image: url(https://pbs.twimg.com/media/FE_E36iWQAweXuA.jpg);
